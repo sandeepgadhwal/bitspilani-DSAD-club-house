@@ -1,0 +1,7 @@
+
+initializing class clubHouseTracker will take fixed time
+function initializeHash will take Θ(n) time
+function insertAppDetails will take took Θ(n) seconds
+function updateAppDetails will take fixed time
+function memRef will take Θ(n) time
+function appStatus will take Θ(n) time

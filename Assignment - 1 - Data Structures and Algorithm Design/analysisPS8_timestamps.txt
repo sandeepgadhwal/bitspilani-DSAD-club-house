@@ -1,0 +1,8 @@
+
+function initialized analyzer took 0 seconds
+function intialized class clubHouseTracker took 0.0009970664978027344 seconds
+function initializeHash took 0.0009970664978027344 seconds
+function insertAppDetails (inserted 5 records) took 0.00016570091247558594 seconds
+function updateAppDetails (inserted 5 records) took 0.001641988754272461 seconds
+function memRef took 0.0009789466857910156 seconds
+function appStatus took 0.0019745826721191406 seconds
